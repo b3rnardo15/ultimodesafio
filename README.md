@@ -37,14 +37,7 @@ As medidas a serem criadas no Power BI incluirão, mas não se limitarão a:
 - Médias mensais de vendas
 - Crescimento percentual de vendas por produto e região
 
-## Instruções de Uso
 
-1. **Carregar Dados**: Importe os dados necessários para o Power BI.
-2. **Criar Medidas**: Utilize a linguagem DAX para criar as medidas mencionadas.
-3. **Construir Visuais**: Adicione os visuais conforme descrito na estrutura do relatório.
-4. **Publicar e Compartilhar**: Após a finalização, publique o relatório no Power BI Service e compartilhe com as partes interessadas.
-
-## Considerações Finais
 
 Este projeto é uma oportunidade de explorar dados de forma criativa e fornecer insights acionáveis. Lembre-se de validar a disposição dos visuais com os stakeholders para garantir que atenda às suas necessidades.
 
